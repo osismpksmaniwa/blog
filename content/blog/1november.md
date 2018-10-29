@@ -1,7 +1,7 @@
 ---
 title: "Pemberitahuan tanggal 1 November"
 date: 2018-10-29T13:10:16+07:00
-draft: true
+draft: false
 ---
 
 Menindaklanjuti program rutin dindik dengan ini menginformasikan kepada seluruh siswa siswi SMA Negeri 1 Wonoayu bahwa pada :
