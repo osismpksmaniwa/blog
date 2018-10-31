@@ -1,23 +1,45 @@
 ---
-title: "Pemberitahuan tanggal 1 November"
+title: "Pengumuman 30 okt '18"
 date: 2018-10-29T13:10:16+07:00
-draft: true
+draft: false
 ---
 
-Menindaklanjuti program rutin dindik dengan ini menginformasikan kepada seluruh siswa siswi SMA Negeri 1 Wonoayu bahwa pada :
+```
+> Tim Penyebaran Informasi OSISMPK SMAN1WNY<br>
+> ISR no.001 tgl.31/10-'18
 
-hari, tanggal : Kamis, 1 November 2018
+> kpd kk/pd kls x/xi/xii<br>
+> dr omsmaniwa/tpi trsn humas.sman1wny
+``` 
 
-Untuk turut berpartisipasi dalam program dindik dengan cara :
+1. menunjuk program dindik terkait pelestarian adat daerah yg mengintruksikan kpd sekolah sma utk memakai kostum adat sbg slh satu cara pelstarian budaya daerah.
 
-1. Mengenakan busana adat dengan catatan sebagai berikut 
+2. guna pelaksanaan program trsb kami teruskan info dr humas sman1wny bahwa _**slrh siswa sman1wny diwajibkan mengenakan pakaian adat pd tgl 1 november 2018**_ sesuai dgn ketentuan brkt:
 
-1.1. Memakai sepatu hitam polos dan kaus kaki berwarna putih
+    * memakai sepatu hitam polos, kaus kaki putih almamater, ikat pinggang sman1wny jika memakai (atribut sekolah tertib)
 
-1.2. 
+    * bg siswa, tdk diperbolehkan memakai celana jeans
 
-1.3. Bagi peserta didik perempuan dilarang menggunakan kosmetik.
+    * bg siswi, tdk diperbolehkan memakai kulot, belahan bawahan terbuka
 
-1.4. Bagi peserta didik laki - laki hanya diperbolehkan menggunakan celana kain.
 
-1.5. 
+
+`slrh info berikut merupakan terusan dn tlh dimodifikasi seperlunya oleh omsmaniwa.`<br>
+
+*`segala pertanyaan dpt ditanyakan kepada walas dan guru yg bersangkutan maupun k.tpi`*
+
+```
+CC:
+1. wksh,wkss,pos9
+2. wls,gumap,sfs
+3. oms,mps
+4. kk,pp
+
+
+Tim Publikasi Informasi OSISMPK SMA Negeri 1 Wonoayu
+
+a.n/k.tpi-omsman1wny
+k.tpi1
+rengga prakoso n
+nis.3898
+```
