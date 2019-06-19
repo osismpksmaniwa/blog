@@ -11,7 +11,7 @@ title               = "OSISMPK SMANIWA Board Pages"
 pygmentsuseclasses  = true
 #disqusshortname     = "cocoaexamplesite"
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-68615481-4"
 
 [permalinks]
 blog  = "blog/:slug/"
@@ -21,13 +21,6 @@ name                   = "Blog"
 weight                 = -120
 identifier             = "blog"
 url                    = "/blog/"
-
-[[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
 
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
@@ -47,8 +40,8 @@ instagram              = "//instagram.com/osismpksmaniwa"
 lang                   = "id"
 #linkedin               = "//linkedin.com/in/you"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = ""                            # appears in the site header when set to a non-empty string
-#twitter                = "//twitter.com/you"
+selfintro              = "Students Creative Hub!"                            # appears in the site header when set to a non-empty string
+twitter                = "//twitter.com/omsmaniwa"
 #mastodon               = "//example.com/@you"
 #telegram               = "//t.me/you"
 
