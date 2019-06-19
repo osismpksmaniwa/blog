@@ -11,7 +11,7 @@ title               = "OSISMPK SMANIWA Board Pages"
 pygmentsuseclasses  = true
 #disqusshortname     = "cocoaexamplesite"
 pluralizelisttitles = false
-googleAnalytics     = "UA-68615481-4"
+googleAnalytics     = "UA-68615481-5"
 
 [permalinks]
 blog  = "blog/:slug/"
