@@ -6,10 +6,10 @@ languageCode        = "id"
 layoutdir           = "layouts"
 publishdir          = "public"
 theme               = "cocoa"
-author              = "OSISMPKSMANIWA"
+#author              = "OSISMPKSMANIWA"
 title               = "OSISMPK SMANIWA Board Pages"
 pygmentsuseclasses  = true
-#disqusshortname     = "cocoaexamplesite"
+disqusshortname     = "osismpk-blogs"
 pluralizelisttitles = false
 googleAnalytics     = "UA-68615481-5"
 
@@ -18,7 +18,7 @@ blog  = "blog/:slug/"
 
 [[menu.main]]
 name                   = "Blog"
-weight                 = -120
+weight                 = 0
 identifier             = "blog"
 url                    = "/blog/"
 
