@@ -38,7 +38,7 @@ Platform blogging yang sangat unik. Khususnya para pecinta *reblogging*. Komunit
 3. Memindah konten dari Tumblr menuju platform lain sulit dilakukan.
 
 
-## 3. [Blogger](blogger.com)
+## 3. [Blogpot](blogger.com)
 Salah satu sesepuh platform blogging. Blogger dikelola oleh Google. Platform ini sangat stabil dan pernah jaya pada masanya. Meskipun demikian, platform ini sangat mudah digunakan dan terintegrasi dengan Google Search Console dan mudah melakukan monetisasi pada blogger. Pastinya, sangat mudah dilakukan karena pemain lawas pada dunia blogging.
 
 ### Kelebihan :
