@@ -2,6 +2,8 @@
 title: "Platform blogging GRATIS untuk pemula"
 date: 2019-06-26
 draft: false
+text-align: justify
+comments: true
 ---
 
 Memilih platform blogging merupakan masalah yang sering dihadapi oleh narablog pemula. Apalagi dengan banyaknya platform yang ada di dunia maya. Hal itu membuat para narablog pemula menjadi bingung dalam memilih platform blognya.

@@ -2,6 +2,8 @@
 title: "Pengumuman 30 okt '18"
 date: 2018-10-29T13:10:16+07:00
 draft: false
+text-align: justify
+comments: true
 ---
 
 ```
