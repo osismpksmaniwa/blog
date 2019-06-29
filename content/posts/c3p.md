@@ -1,6 +1,8 @@
 ---
 title: "Content Creator Collaboration Project"
 date: 2019-06-28
+text-align: justify
+comments: true
 ---
 
 Ingin mencoba memamerkan karya kalian di sosial media OSISMPK ? Ataupun ingin bergabung kedalam tim kreatif OSISMPK ? 
@@ -11,7 +13,7 @@ Sasaran dari C3P saat ini dikhususkan kepada siswa/i SMANIWA. Alumni maupun dewa
 
 Adapun teknis umum dalam proyek ini kami sertakan dalam bentuk PDF. File tersebut dapat diunduh pada link di bawah ini. Info lebih lanjut harap hubungi Administrative Authorities
 
-[UNDUH TEKNIS PDF C3P](https://firebasestorage.googleapis.com/v0/b/omsmaniwa-api.appspot.com/o/)
+[UNDUH PANDUAN C3P - UMUM](https://firebasestorage.googleapis.com/v0/b/omsmaniwa-api.appspot.com/o/)
 
 ```
 Konten Kreator :

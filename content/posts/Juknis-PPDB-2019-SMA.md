@@ -2,6 +2,8 @@
 title: "Juknis PPDB SMA JATIM 2019"
 date: 2019-05-27
 draft: false
+text-align: justify
+comments: true
 ---
 
 ```
