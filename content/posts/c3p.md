@@ -13,7 +13,7 @@ Sasaran dari C3P saat ini dikhususkan kepada siswa/i SMANIWA. Alumni maupun dewa
 
 Adapun teknis umum dalam proyek ini kami sertakan dalam bentuk PDF. File tersebut dapat diunduh pada link di bawah ini. Info lebih lanjut harap hubungi Administrative Authorities
 
-[UNDUH PANDUAN C3P - UMUM](https://firebasestorage.googleapis.com/v0/b/omsmaniwa-api.appspot.com/o/)
+[UNDUH PANDUAN C3P - UMUM](https://firebasestorage.googleapis.com/v0/b/omsmaniwa-api.appspot.com/o/collab-project-proposal.pdf?alt=media&token=e8716dc0-c708-4db0-bfc8-3e94fd150b45)
 
 ```
 Konten Kreator :
