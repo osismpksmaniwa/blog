@@ -9,7 +9,7 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 rssLimit  = 20  # Maximum number of items in the RSS feed.
-copyright = "this word is created by osismpksmaniwa. Further infos contact Administrative Authorities" # This message is only used by the RSS template.
+copyright = "osismpksmaniwa" # This message is only used by the RSS template.
 
 googleAnalytics = "UA-68615481-5"
 disqusShortname = "osismpk-blogs"
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/post/:year/:month/:title/"
 
 [author]
-  name = "Content Creator Authorities"
+  name = "omsmaniwa"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,8 +54,8 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
+  description = "osismpksmaniwa blogs"
+  keywords = "osismpksmaniwa"
   images = [""]
 
   homeSubtitle = "Students Creative Hub."
@@ -78,8 +78,8 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
-    logoHomeLink = "/"
+    logoText     = "blog posts"
+    logoHomeLink = "/posts/"
 
   # Social icons
   [[params.social]]
@@ -95,29 +95,22 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/osismpksmaniwa"
 
   [[params.social]]
-    name = "Instagram"
+    name = "instagram"
     url  = "https://www.instagram.com/osismpksmaniwa"
 
   [[params.social]]
-  name = "Youtube"
+  name = "youtube"
   url  = "https://www.youtube.com/c/osismpksmaniwa"
 
-[languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  [[params.social]]
+  name = "soundcloud"
+  url  = "https://www.soundcloud.com/osismpksmaniwa"
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
